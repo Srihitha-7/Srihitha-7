@@ -4,16 +4,16 @@
 💻 Computer Science Student | 🤖 AI/ML Developer | 🚀 Builder
 I build intelligent applications by combining Machine Learning, Reinforcement Learning, LLMs, and Software Engineering.
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Srihitha_7">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/srihitha-gaddam-6543193b4">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://srihitha-7.github.io/Srihitha-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:srihithagaddam7@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -191,11 +191,11 @@ I believe the best way to learn is to take an idea, understand the underlying co
 🤝 Let's Build Something Intelligent
 AI • Machine Learning • Software Engineering • Research
 
-<a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+<a href="https://www.linkedin.com/in/srihitha-gaddam-6543193b4">LinkedIn</a>
   •  
-<a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+<a href="https://srihitha-7.github.io/Srihitha-portfolio/">Portfolio</a>
   •  
-<a href="mailto:YOUR_EMAIL@example.com">Email</a>
+<a href="mailto:srihithagaddam7@gmail.com.com">Email</a>
 
 
 
